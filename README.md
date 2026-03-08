@@ -8,7 +8,7 @@ Features:
 - AI CO2 prediction model
 
 Tech stack:
-Python
-Streamlit
-Scikit-learn
+Python,
+Streamlit,
+Scikit-learn,
 Plotly
