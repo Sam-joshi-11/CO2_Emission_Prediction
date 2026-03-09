@@ -171,4 +171,4 @@ elif page == "AI Predictor":
         else:
             st.success(f"Predicted CO₂ Emissions: {prediction:.2f} Million Tonnes (MtCO₂)")
 
-        st.info("CO₂ emissions are measured in Million Tonnes (MtCO₂).")
+        st.info("CO₂ emissions are measured in Million Tonnes (MtCO₂) or in Gigatonnes (GtCO₂) .")
