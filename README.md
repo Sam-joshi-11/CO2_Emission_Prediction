@@ -12,3 +12,5 @@ Python,
 Streamlit,
 Scikit-learn,
 Plotly
+
+Deployed link through streamlit:https://co2predict2410.streamlit.app/
